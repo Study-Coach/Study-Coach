@@ -1,0 +1,8 @@
+kivy
+nicegui
+pandas
+matplotlib
+python-dotenv
+openai
+google-genai
+
